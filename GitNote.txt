@@ -8,3 +8,7 @@ Adding all files in folder - git add -A
 Commiting file - git commit -m <filename>
 To see the status - git show (or) git status
 To push files to online repo - git push -u origin master
+
+To view the changes - git log
+To view detailed changes - git log --summary
+
