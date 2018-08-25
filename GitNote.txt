@@ -1,0 +1,3 @@
+To initialise a local git repository - git init
+Create a clone of remote repository - git clone <Repository URL>
+
