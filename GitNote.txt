@@ -1,7 +1,8 @@
 To initialise a local git repository - git init
 Create a clone of remote repository - git clone <Repository URL>
 
-Steps to add to Git online repository
+Steps to push to Git online repository
+######################################
 Adding a single file - git add <filename> 
 Adding all files in folder - git add -A 
 Commiting file - git commit -m <filename>
